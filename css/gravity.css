@@ -177,10 +177,9 @@ header .header-content .header-content-inner p {
   margin-bottom: 50px;
 }
 header .header-content .header-content-inner .logo {
-  display: block;
   margin: auto;
   text-align: center;
-  width: 8em;
+  width: 8em !important;
 }
 @media (min-width: 768px) {
   header {
